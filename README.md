@@ -2,6 +2,12 @@
 
 ## Implementation
 
+Multiple Levels
+
+Larger Levels
+
+Added sounds to coin
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -16,6 +22,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Created by
 
 Terryon Taylor
-
-
 
